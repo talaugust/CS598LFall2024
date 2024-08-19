@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Calendar
-description: Listing of course modules and topics.
+description: Listing of course readings and topics.
 ---
 
 # Calendar

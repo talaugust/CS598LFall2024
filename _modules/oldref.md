@@ -1,10 +1,8 @@
----
-title: Basic Data Structures
----
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+
+Aug 29
+: Sociolinguistics
+  : Giles, H., & Ogay, T. (2007). [Communication Accommodation Theory](https://drive.google.com/file/d/1XMkA0HpUF5xgWnknVAljSLTgBkgkuQHa/view?usp=sharing) 
 
 Oct 6
 : **Section**{: .label .label-purple }[Linked Lists](#)
