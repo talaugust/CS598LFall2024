@@ -3,7 +3,7 @@ name: David Zhou
 role: Teaching Assistant
 email: david23@illinois.edu
 website: https://www.linkedin.com/in/david-zo
-photo: david.jpg
+photo: David.jpg
 meta:
   Office Hours: By appointment
 ---
