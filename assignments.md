@@ -106,6 +106,9 @@ Time limits: Try to keep your pitch/presentation to 6-8 minutes in total. This w
 - Initial thoughts on research questions and methods you would employ to answer these.
 - Clearly articulate RQs/Why/How in pitches.
 
+### Project resources
+We have compiled some databases, codebases, and compute credits that might be helpful for planning and executing your project. Here is a list of [potential resources](https://docs.google.com/document/d/1egODNzkt1N0QpOy6SCZZM1DQrj9lOeSPVCun9zhiH10/edit?usp=sharing). Let us know if you have questions about any of it. 
+
 
 ## Project proposal talk
 
