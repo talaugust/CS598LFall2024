@@ -3,8 +3,9 @@ title: Foundations - Sociolinguistics
 ---
 
 Thur Aug 29
-: Giles, H., & Ogay, T. (2007). [Communication Accommodation Theory](https://drive.google.com/file/d/1XMkA0HpUF5xgWnknVAljSLTgBkgkuQHa/view?usp=sharing) <br>
-Bell A. 1984. [Language style as audience design](https://drive.google.com/file/d/1foMgB_LszIMby_3GY9mJQZ_czpNKfln1/view?usp=sharing). Language in Society. Sections 1 and 3. 
+: Giles, H., & Ogay, T. (2007). [Communication Accommodation Theory](https://drive.google.com/file/d/1XMkA0HpUF5xgWnknVAljSLTgBkgkuQHa/view?usp=sharing) Bell A. 1984. [Language style as audience design](https://drive.google.com/file/d/1foMgB_LszIMby_3GY9mJQZ_czpNKfln1/view?usp=sharing). Language in Society. Sections 1 and 3.
+  : [Slides](https://docs.google.com/presentation/d/1opRZbyvztAjLh6E2TzZ42xrkhWMWn6hNZipMP_peLlI/edit?usp=sharing)
+
 
 Tues Sept 3
 : Cristian Danescu-Niculescu-Mizil, Michael Gamon, and Susan Dumais. 2011. [Mark my words! linguistic style accommodation in social media](https://drive.google.com/file/d/18K66_Eln-SrNjKkPQFPzgw_u8D6taEmr/view?usp=sharing). In Proceedings of the 20th international conference on World wide web <br>
