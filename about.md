@@ -45,6 +45,16 @@ There is no exam in this course.
 ## Texts
 Assigned readings will be linked in the class schedule. There are no required texts. More details about the assignments are in the [Assignments](/assignments.md) section.
 
+## Language Model Use Policy 
+
+The goal of this course is to think critically about current computing research on improving our use of language with technology. Language models (LMs) and chat assistants (e.g., ChatGPT) are some of the technologies we will be discussing in class, including how we can use them to write and read more effectively. For that reason, we are allowing the use of LMs to assit you in completing assignments. However, the use of any LM comes with the following requirements. 
+
+- The output of the LM cannot be the final output that you submit for the assignment. 
+- You must disclose the use of the LM on the assignment. 
+- When you discclose LM use, also include 2-3 sentences describing why you used the LM, what you used it for, what you found helpful about using the LM, and what were limitations you had to work around when using the LM. 
+
+
+
 ## Mental Health
 Diminished mental health, including significant stress, mood changes, excessive worry, substance/alcohol abuse, or problems with eating and/or sleeping can interfere with optimal academic performance, social development, and emotional wellbeing. The University of Illinois offers a variety of confidential services including individual and group counseling, crisis intervention, psychiatric services, and specialized screenings at no additional cost. If you or someone you know experiences any of the above mental health concerns, it is strongly encouraged to contact or visit any of the University's resources provided below. Getting help is a smart and courageous thing to do -- for yourself and for those who care about you.
 
