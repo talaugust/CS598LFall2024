@@ -60,3 +60,5 @@ The goal of this course is to think critically about current computing research 
 - The output of the LM **cannot be the final output** that you submit for the assignment. 
 - You must **disclose** the use of the LM on the assignment. 
 - When you discclose LM use, also include 2-3 sentences **describing** why you used the LM, what you used it for, what you found helpful about using the LM, and what were limitations you had to work around. 
+
+The structure and content of this course has been inspired by Eshwar Chandrasekharan's [Social Computing](http://www.eshwarchandrasekharan.com/spring2022-cs598.html) course, and Katharina Reinecke's [Computer Ethics](https://uw-cse599p.github.io/) course. 
