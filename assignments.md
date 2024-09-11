@@ -101,6 +101,8 @@ Time limits: Try to keep your pitch/presentation to 6-8 minutes in total. This w
 
 ### Guidelines for project pitches
 
+For each project pitch, submit 2-3 paragraphs that covers: 
+
 - Clear description of a new problem statement and the current gap that you aim to address through your research idea ([examples](https://docs.google.com/document/d/10zThcs1G-lAkULyyCMYUq7QGURdnwIUD374w-6mz-2U/edit)).
 - An argument, with citations to relevant literature, that these are important research questions that we likely don't have answers for yet.
 - Initial thoughts on research questions and methods you would employ to answer these.
@@ -112,9 +114,17 @@ We have compiled some databases, codebases, and compute credits that might be he
 
 ## Project proposal talk
 
-After selecting one research pitch, come up with a talk to propose a new research study or a system design for your final paper. Incorporate feedback from the class obtained during the pitches, and remind us how you propose to address any challenges during your proposal talk.
+After selecting one research pitch, come up with proposal for a new research study or system design. Incorporate feedback from the class obtained during the pitches, and remind us how you propose to address any challenges during your proposal.
 
-Criteria for project proposal talk
+The proposal will include a written document (the project proposal report, covered below) and talk. For the talk, be sure to cover:
+
+- Research questions that can be answered with empirical results (RQ/Why/How).
+- A complete research study or system design. For example, coming up with either a quantitative study to answer clearly-defined research questions or building a new system, chrome plugin, or ML framework to solve some current challenge. You’re free to choose your favorite methods that are appropriate to answering your research questions as long as you justify your methods.
+- For a data project: a plan for how you're going to collect data and drawbacks to your approach. 
+- For a design project: the feasibility of your system design and how you would address any challenges that may arise.
+- Timeline for the proposed project, clearly identifying next steps and possible roadblocks or risks. 
+
+<!-- Criteria for project proposal talk
 - Quality of problem statement.
 - Thoughtful use of course readings in a presentation to motivate your research
 - Insight into interactive computing and language technology issues to identify current gaps in existing literature.
@@ -122,12 +132,14 @@ Criteria for project proposal talk
 - Proposing a complete research study or system design. For example, coming up with either a quantitative study to answer clearly-defined research questions or building a new system, chrome plugin, or ML framework to solve some current challenge. You’re free to choose your favorite methods that are appropriate to answering your research questions as long as you justify your methods.
 - For a data project: a plan for how you're going to collect data and drawbacks to your approach. 
 - For a design project: the feasibility of your system design and how you would address any challenges that may arise.
-- Timeline for the proposed project, clearly identifying next steps and possible roadblocks or risks. 
+- Timeline for the proposed project, clearly identifying next steps and possible roadblocks or risks.  -->
+
 
 
 ## Project proposal report
 
-We will be using the [CHI paper format](https://chi2024.acm.org/submission-guides/chi-publication-formats/) for the project proposal and final report. Your project proposal report will be a first draft of your final paper that you will continue to fill in over the course of the semester. The project proposal report should reflect what you presented in the proposal presentation. It should include an introduction, related work, proposed study design and methodologies, timeline, distribution of work among students, and expected project outcomes and contributions. For the project proposal (not the final report), try to keep the PDF to under 7 pages. 
+We will be using the [CHI paper format](https://chi2024.acm.org/submission-guides/chi-publication-formats/) for both the project proposal and final report. 
+Your project proposal report will be a first draft of your final paper that you will continue to fill in over the course of the semester. The project proposal report should reflect what you presented in the proposal presentation. It should include an introduction, related work, proposed study design and methodologies, timeline, distribution of work among students, and expected project outcomes and contributions. For the project proposal (not the final report), try to keep the PDF to under 7 pages. 
 
 Note: A single-paragraph collaboration plan will be required in each student's project proposal to receive full credit. Eventually, a single-paragraph contribution statement summarizing each group member’s contribution to the project will be required in each student’s final paper.
 
