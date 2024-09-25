@@ -19,7 +19,7 @@ description: >-
 # Reading reflections
 Every class will include assigned readings. For each class, I expect you to write a reading response to the assigned readings, with the exception of classes where we will be presenting or discussing project updates (marked in the schedule). 
 
-**Reading responses are due by 7 pm the day before each class**. This is to give the discussion leads time to read the responses and prepare discussion questions for class. There are a total of 16 reading responses, to accommodate conflicting deadlines, emergencies, or anything else that might come up during the semester, **you are allowed to skip 3 reading responses, no questions asked**. 
+**Reading responses are due by 7 pm the day before each class**. This is to give the discussion leads time to read the responses and prepare discussion questions for class. There are a total of 16 reading responses, to accommodate conflicting deadlines, emergencies, or anything else that might come up during the semester, **you are allowed to skip 3 reading responses, no questions asked**. You also do **not** need to submit a reading response for the papers you are a discussion lead on.
 
 Submit responses via [Canvas](https://canvas.illinois.edu/courses/48566) discussion. If you are leading a discussion, you do not need to prepare a discussion response (see below for what to prepare if you are leading a discussion). The Canvas discussion will be closed after 7 pm the day before class. If your reading response is not in by then, it will not be graded. 
 
