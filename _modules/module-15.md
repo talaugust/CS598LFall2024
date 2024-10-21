@@ -1,7 +1,14 @@
 ---
-title: Project Check-in 
+title: Final Presentations 
 ---
 
 Tue Dec 3
-: **Project Check-in**{: .label} Class dedicated to project work. 
+: **Final Presentations**{: .label} 
+
+Thur Dec 5
+: **Final Presentations**{: .label} 
+
+Tues Dec 10
+: **Final Presentations**{: .label} 
+
 
