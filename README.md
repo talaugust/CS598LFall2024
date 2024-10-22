@@ -27,6 +27,7 @@ A special topics course in human-computer interaction and natural language proce
 - Course [Canvas](https://canvas.illinois.edu/courses/48566) page 
 - Discussion Lead [signup sheet](https://docs.google.com/spreadsheets/d/1PISl-IwZc-l9fbfAoYCB2ci8bwr7v7kQ-Fr7Pr-sB1Y/edit?pli=1&gid=0#gid=0)
 - Project Pitch [signups](https://docs.google.com/spreadsheets/d/1mdIySsCP2z-0UuqTOFb9jFBUPq6jfYeDFkg5N7k1Lyg/edit?usp=sharing)
+- Final Project Talk [signups](https://docs.google.com/spreadsheets/d/164zK-dC-iAy-HDUjOKTPTsHE1iHUQSWsU1jSP5uo3CE/edit?usp=sharing)
 
 # Acknowledgements 
 This site was built using [Kevin Lin](https://kevinl.info/)’s package [Just the Class](https://github.com/kevinlin1/just-the-class), which is built on [Just the Docs](https://pmarsceill.github.io/just-the-docs/).
