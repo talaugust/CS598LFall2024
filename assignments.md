@@ -139,7 +139,7 @@ The proposal will include a written document (the project proposal report, cover
 ## Project proposal report
 
 We will be using the [CHI paper format](https://chi2024.acm.org/submission-guides/chi-publication-formats/) for both the project proposal and final report. 
-Your project proposal report will be a first draft of your final paper that you will continue to fill in over the course of the semester. The project proposal report should reflect what you presented in the proposal presentation. It should include an introduction, related work, proposed study design and methodologies, timeline, distribution of work among students, and expected project outcomes and contributions. For the project proposal (not the final report), try to keep the PDF to under 7 pages. 
+Your project proposal report will be a first draft of your final paper that you will continue to fill in over the course of the semester. The project proposal report should reflect what you presented in the proposal presentation. It should include an introduction, related work, proposed study design and methodologies, timeline, distribution of work among students, and expected project outcomes and contributions. For the project proposal, try to keep the PDF to under 7 pages. 
 
 Note: A single-paragraph collaboration plan will be required in each student's project proposal to receive full credit. Eventually, a single-paragraph contribution statement summarizing each group member’s contribution to the project will be required in each student’s final paper.
 
@@ -151,7 +151,7 @@ Think of this as an informal contract among group members.
 
 
 ## Final Report 
-Every team will hand-in a 10 page report summarizing their findings. When writing up your findings, look at the research papers we have read in class. My expectation for the final project is that it significantly extends previous findings in an area within CS. Your research project should be a plausible attempt at contributing a novel result. The final write-up should have the quality of a publishable paper, with the contribution being roughly that of a short paper (e.g., a workshop paper). The papers should be a maximum of 10 pages. 
+Every team will hand-in a report summarizing their findings. When writing up your findings, look at the research papers we have read in class. My expectation for the final project is that it significantly extends previous findings in an area within CS. Your research project should be a plausible attempt at contributing a novel result. The final write-up should have the quality of a publishable paper, with the contribution being roughly that of a short paper (e.g., a workshop paper). The papers should be a maximum of 10 pages. Aim for 7 to 10 pages.
 
 For guidance on writing research papers, please refer to papers you enjoyed reading in class, here are also two links for writing [HCI](https://faculty.washington.edu/wobbrock/pubs/Wobbrock-2015.pdf) and [NLP](https://medium.com/@vered1986/tips-for-writing-nlp-papers-9c729a2f9e1f) research papers. 
 
